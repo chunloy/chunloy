@@ -6,10 +6,10 @@
 
 # About Me
 
-- Full-Stack Developer 👨🏻‍💻
-- Mechanical Engineer ⚙️
-- Fun Fact: I like to skate 🛹
-- Currently learning Typescript 🌱
+I'm a recent graduate from Lighthouse Labs Web Development Bootcamp with a background in mechanical engineering. My passion for programming started after I laid my hands on a laptop for the first time. I love that it challenges my creativity by thinking of different ways to tackle problems. Naturally, I became interested in microcontrollers because of the endless possibilities for solving physical problems. The next logical step was to study web development to make my projects more interactive over the internet.
+
+Currently learning Typescript to develop more predictable code 🌱 <br/>
+Fun fact about me: I like to skate 🛹
 
 <br/>
 
