@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
       </p>
-        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> - Scheduler is a single-page appointment scheduling tool developed in React allowing users to connect with mentors.</p>
+        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> - Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
     </td>
     <td width="50%" valign="top">
       <h3>WIFI Web and Voice Remote</h3>
@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
       </p>
-        <p><strong>Developed in the Arduino IDE while leveraging the ESP8266 and infrared (IR) libraries</strong> - Created a device to upgrade an old tv with smart capabilities using a WIFI-enabled microcontroller and IR sensors.</p>
+        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> - Created a device to upgrade an old tv with smart capabilities using a WIFI-enabled microcontroller and IR sensors.</p>
     </td>
   </tr>
   
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
       </p>
-        <p><strong>An Iron Man themed desktop CNC router constructed from steel tubing and 3D printed components to support for 3-axis milling.</strong> The machine uses a modified version of the Marlin platform, which is frequently used by 3D printers.</p>
+        <p><strong>An Iron Man themed desktop CNC router built using steel tubing and 3D printed components</strong> – Leverages a modified version of the Marlin platform to support for 3-axis milling.</p>
     </td>
     
   </tr>
