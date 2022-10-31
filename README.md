@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
       </p>
-        <p><strong>An Iron Man themed desktop CNC router constructed from steel tubing and 3D printed components.</strong> The machine uses a modified version of the Marlin platform, which is frequently used by 3D printers.</p>
+        <p><strong>An Iron Man themed desktop CNC router constructed from steel tubing and 3D printed components to support for 3-axis milling.</strong> The machine uses a modified version of the Marlin platform, which is frequently used by 3D printers.</p>
     </td>
     
   </tr>
