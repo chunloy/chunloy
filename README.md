@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: When I'm not programming, I'm out skateboarding 🛹
 
-![sk8](https://user-images.githubusercontent.com/101907461/199125843-5387b557-9fea-42a4-ab4f-c2cb8a8df97f.gif)
+![Sk8er](https://user-images.githubusercontent.com/101907461/199155072-030b16a8-553f-48f8-be15-1de09746ade1.gif)
 
 </section>
 
