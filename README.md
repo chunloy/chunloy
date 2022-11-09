@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Aaron </h1>
 <h3>A full stack developer based out of Vancouver, BC</h3>
 
-🔭 I’m currently learning data structures & algorithms
+🔭 I’m currently python
 
 🌱 I’m interested in backend development, AI/ML, and robotics
 
@@ -67,15 +67,6 @@
 <br>
 
 <section align="center">
-<h2>Streak Stats</h2>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=highcontrast" alt="chunloy" />
-</p>
-</section>
-
-<br>
-
-<section align="center">
 <h2>Technical Skills</h2>
 <p>
 <h3>Languages</h3>
@@ -122,4 +113,18 @@
 
 <br>
 
+</section>
+
+<br>
+
+
+<section align="center">
+<h2>Streak Stats</h2>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=highcontrast" alt="chunloy" />
+</p>
+<h2>LeetCode Stats </h2>
+<p>
+  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=not---aaron&theme=dark" width =495/>
+</p>
 </section>
