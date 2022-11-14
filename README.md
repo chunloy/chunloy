@@ -121,7 +121,7 @@
 <section align="center">
 <h2>My Activity</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunloy&layout=compact&theme=aura_dark" alt="languages" width=495/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunloy&layout=compact&theme=aura_dark" alt="languages"/>
   </p>
   <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=highcontrast" alt="streak" />
