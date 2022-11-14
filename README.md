@@ -119,12 +119,14 @@
 
 
 <section align="center">
-<h2>Streak Stats</h2>
+<h2>My Activity</h2>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=highcontrast" alt="chunloy" />
-</p>
-<h2>LeetCode Stats </h2>
-<p>
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=not---aaron&theme=dark" width =495/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunloy&layout=compact&theme=aura_dark" alt="languages" width=495/>
+  </p>
+  <p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=highcontrast" alt="streak" />
+  </p>
+  <p>
+  <img alt="LeetCode" src="https://leetcode-stats-six.vercel.app/?username=not---aaron&theme=dark" width=495/>
+  </p>
 </section>
