@@ -121,10 +121,12 @@
 <section align="center">
 <h2>My Activity</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunloy&layout=compact&theme=aura_dark" alt="languages"/>
+
+</p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunloy&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="languages"/>
   </p>
   <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=highcontrast" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=dark&hide_border=true" alt="streak" />
   </p>
   <p>
   <img alt="LeetCode" src="https://leetcode-stats-six.vercel.app/?username=not---aaron&theme=dark" width=495/>
