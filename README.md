@@ -131,6 +131,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=dark&hide_border=true" alt="streak" />
   </p>
   <p>
-  <img alt="LeetCode" src="https://leetcode-stats-six.vercel.app/?username=not---aaron&theme=dark" width=495/>
+  <img alt="LeetCode" src="https://leetcard.jacoblin.cool/not---aaron?border=0&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count" />
   </p>
 </section>
