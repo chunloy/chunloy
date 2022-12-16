@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Aaron </h1>
 <h3>A full stack developer based out of Vancouver, BC</h3>
 
-🔭 I’m currently learning python
+🔭 I’m currently learning python and DS&A
 
 🌱 I’m interested in backend development, AI/ML, and robotics
 
