@@ -6,8 +6,6 @@
 
 🌱 I’m interested in backend development, AI/ML, and robotics
 
-🤝 I’m looking to collaborate on open source projects
-
 ⚡ Fun fact: When I'm not programming, I'm out skateboarding 🛹
 
 ![Sk8er](https://user-images.githubusercontent.com/101907461/199155072-030b16a8-553f-48f8-be15-1de09746ade1.gif)
