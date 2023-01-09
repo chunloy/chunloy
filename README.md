@@ -31,7 +31,7 @@
         <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Wi-Fi Web and Voice Remote</h3>
+      <h3>WiFi Web and Voice Remote</h3>
 
 ![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
 
