@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
       </p>
-        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WIFI-enabled microcontroller and IR sensors.</p>
+        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WiFi-enabled microcontroller and IR sensors.</p>
     </td>
   </tr>
   
