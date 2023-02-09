@@ -15,7 +15,7 @@
 <br>
 
 <section align="center">
-<h2>Latest Projects</h2>
+<h2>Projects</h2>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
