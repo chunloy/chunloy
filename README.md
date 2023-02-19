@@ -121,7 +121,7 @@
 
 
 <section align="center">
-<h2>My Activity</h2>
+<h2>Activity</h2>
 <p>
 
 </p>
