@@ -123,8 +123,6 @@
 <section align="center">
 <h2>Activity</h2>
 <p>
-
-</p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunloy&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="languages"/>
   </p>
   <p>
