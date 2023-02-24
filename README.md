@@ -19,6 +19,22 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3>Crown Clothing</h3>
+
+![](https://user-images.githubusercontent.com/101907461/221061539-22206763-6b12-44df-b094-91401964bd32.png)
+
+  <p>
+  <a href="https://github.com/chunloy/crwn-clothing" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://crwn-clothing-build.uw.r.appspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
+  
+  </a>  
+      </p>
+        <p><strong>Node, React, React Router, Styled-Components, Firebase</strong> – An e-commerce app inspired by my success in skateboarding. Project is still in progress, but a preview is available in the link above.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>Scheduler</h3>
 
 ![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
@@ -26,21 +42,10 @@
   <p>
   <a href="https://github.com/chunloy/scheduler" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    
   </a>  
       </p>
         <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Wi-Fi Web & Voice Remote</h3>
-
-![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
-
-  <p>
-  <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-      </p>
-        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WiFi-enabled microcontroller and IR sensors.</p>
     </td>
   </tr>
   
@@ -56,6 +61,18 @@
   </a>  
       </p>
         <p><strong>An Iron Man themed desktop CNC router built using steel tubing and 3D printed components</strong> – Leverages a modified version of the Marlin platform to support for 3-axis milling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Wi-Fi Web & Voice Remote</h3>
+
+![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
+
+  <p>
+  <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+      </p>
+        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WiFi-enabled microcontroller and IR sensors.</p>
     </td>
     
   </tr>
@@ -118,7 +135,6 @@
 </section>
 
 <br>
-
 
 <section align="center">
 <h2>Activity</h2>
