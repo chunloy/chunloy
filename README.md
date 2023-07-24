@@ -27,7 +27,7 @@
   <a href="https://github.com/chunloy/crwn-clothing" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://crwn-clothing-build.uw.r.appspot.com/" target="_blank">
+  <a href="https://crwn-clothing-apparel.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
   
   </a>  
