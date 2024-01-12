@@ -143,5 +143,10 @@
 
 <section align="center">
 <h2>Activity</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=chunloy&theme=codestackr&hide_border=true&card_width=500)](https://git.io/streak-stats)
+<p>
+﻿﻿<img src="https://github-readme-streak-
+stats.herokuapp.com/?
+user=chunloy&theme=codestackr&hide_border=true"
+alt="streak" />
+</р>
 </section>
