@@ -144,9 +144,5 @@
 <section align="center">
 <h2>Activity</h2>
 <p>
-﻿﻿<img src="https://github-readme-streak-
-stats.herokuapp.com/?
-user=chunloy&theme=codestackr&hide_border=true"
-alt="streak" />
-</р>
+﻿﻿<img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=dark&hide_border=true" alt="Other Stats" />
 </section>
